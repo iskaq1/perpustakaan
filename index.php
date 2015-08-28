@@ -9,7 +9,7 @@ $query = mysql_query("SELECT * FROM user WHERE username = '$username'");
 $hasil = mysql_fetch_array($query);
 ?>
 
-<title>Halaman Sukses Login</title>
+<title>Halaman Sukses Login ssss</title>
 
 <center>
 <?php
